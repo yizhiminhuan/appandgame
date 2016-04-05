@@ -38,7 +38,7 @@
   position:absolute;
   left:44px;
   top:47px;
-  width:241px;
+  width:172px;
   height:25px;
   font-family:'STHeitiSC-Medium', 'Heiti SC Medium', 'Heiti SC';
   font-weight:700;
@@ -48,14 +48,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:241px;
+  width:172px;
   height:25px;
 }
 #u3 {
   position:absolute;
   left:0px;
   top:0px;
-  width:241px;
+  width:172px;
   white-space:nowrap;
 }
 #u4 {
@@ -709,22 +709,22 @@
   position:absolute;
   left:397px;
   top:620px;
-  width:203px;
-  height:13px;
+  width:204px;
+  height:60px;
   font-size:16px;
 }
 #u58_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:203px;
-  height:13px;
+  width:204px;
+  height:60px;
 }
 #u59 {
   position:absolute;
   left:0px;
   top:0px;
-  width:203px;
+  width:204px;
   white-space:nowrap;
 }
 #u60 {
